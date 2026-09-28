@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+     --font-sans: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-[#F5F7FA] text-[#343C6A] antialiased;
+    font-family: var(--font-sans);
+  }
+}
