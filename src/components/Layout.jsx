@@ -143,7 +143,7 @@ export default function Layout({ children }) {
               <span className="absolute w-2 h-2 bg-red-500 rounded-full top-2 right-2"></span>
             </button>
             <img
-              src="https://unsplash.com"
+              src="https://static.vecteezy.com/system/resources/previews/048/668/547/non_2x/blue-user-icon-profile-and-account-vector.jpg"
               alt="User image"
               className="w-10 h-10 rounded-full object-cover ring-2 ring-slate-100"
             />
